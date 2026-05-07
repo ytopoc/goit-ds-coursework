@@ -1,3 +1,5 @@
+[**English**](README.md) | [Українська](README.uk.md)
+
 # GoIT Data Science Coursework
 
 Thirteen weekly homework assignments from a Data Science course taken May–August 2024. Each folder is one week's lesson, named `Hw{N} {DD.MM.YYYY}`.
